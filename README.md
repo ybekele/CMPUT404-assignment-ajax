@@ -11,4 +11,4 @@ Contributors / Licensing
 ========================
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
-Modifications by Yonael Bekele to original [found at https://github.com/abramhindle/CMPUT404-assignment-ajax] 
+- Modifications by Yonael Bekele to original [found at https://github.com/abramhindle/CMPUT404-assignment-ajax] 
