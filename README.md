@@ -12,7 +12,13 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 - Modifications by Yonael Bekele to original [found at https://github.com/abramhindle/CMPUT404-assignment-ajax] 
-
+  - Completed unfinished functions in server.py 
+  - Added javascript to index.html 
+    - Changed colours and radius of objects 
+    - Added a happy face with one eye so it looks like lasers are shooting out 
+    - Use function (provided by original) JSONXMLHTTPRequest to send data to draw on next frame
+    
+    
 Resources
 ==============================
 - https://stackoverflow.com/questions/7907596/json-dumps-vs-flask-jsonify
