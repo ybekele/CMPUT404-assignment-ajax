@@ -18,6 +18,9 @@ Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
     - Added a happy face with one eye so it looks like lasers are shooting out 
     - Use function (provided by original) JSONXMLHTTPRequest to send data to draw on next frame
     
+Collaborators
+========================
+- Advice given to me by abdurahm
     
 Resources
 ==============================
