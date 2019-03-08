@@ -20,7 +20,7 @@ Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
     
 Collaborators
 ========================
-- Advice given to me by abdurahm
+- Advice given to me by ahersi2
     
 Resources
 ==============================
